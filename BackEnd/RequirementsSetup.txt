@@ -1,0 +1,8 @@
+Backend Setup
+
+Step 1: Initialize an Express.js Project
+
+mkdir backend
+cd backend
+npm init -y
+npm install express sqlite3 cors
