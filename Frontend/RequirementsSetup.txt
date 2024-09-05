@@ -1,0 +1,16 @@
+1. Frontend Setup
+
+Step 1: Initialize a Next.js Project
+
+npx create-next-app@latest blog-platform
+cd blog-platform
+
+
+Step 2: Install Dependencies
+
+npm install axios shadcn-ui
+
+
+Step 3: Set up ShadCN by initializing it in your project:
+
+npx shadcn-ui init
